@@ -1,3 +1,3 @@
 function showAlert() {
-    console.log('Hi!');
+    console.log('Hi user!');
 }
